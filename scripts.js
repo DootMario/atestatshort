@@ -1,0 +1,1 @@
+import * as boot from "external/bootstrap-5.3.3-dist/js"
