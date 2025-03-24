@@ -8,6 +8,9 @@
 /*@import "external/bootstrap-5.3.3-dist/css/bootstrap-utilities.css";*/
 /*@import "external/bootstrap-5.3.3-dist/css/bootstrap-utilities.rtl.css";*/
 
+.anchor{
+    scroll-margin-top: 100px;
+}
 
 .link-btn{
     @media only screen and (max-width: 800px) {
