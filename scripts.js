@@ -1,4 +1,6 @@
-// import * as boot from "external/bootstrap-5.3.3-dist/js"
+import * as boot from "external/bootstrap-5.3.3-dist/js/bootstrap-bundle.min.js"
+
+
 
 function worh() {
     const homeLinks = document.getElementById('homeLinks');
