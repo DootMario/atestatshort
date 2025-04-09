@@ -1,12 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
-/*@import "external/bootstrap-5.3.3-dist/css/bootstrap.css";*/
-/*@import "external/bootstrap-5.3.3-dist/css/bootstrap.rtl.css";*/
+@import "external/bootstrap-5.3.3-dist/css/bootstrap.css";
+@import "external/bootstrap-5.3.3-dist/css/bootstrap.min.css";
+@import "external/bootstrap-5.3.3-dist/css/bootstrap.rtl.css";
+@import "external/bootstrap-5.3.3-dist/css/bootstrap.rtl.min.css";
 /*@import "external/bootstrap-5.3.3-dist/css/bootstrap-grid.css";*/
 /*@import "external/bootstrap-5.3.3-dist/css/bootstrap-grid.rtl.css";*/
 /*@import "external/bootstrap-5.3.3-dist/css/bootstrap-reboot.css";*/
 /*@import "external/bootstrap-5.3.3-dist/css/bootstrap-reboot.rtl.css";*/
 /*@import "external/bootstrap-5.3.3-dist/css/bootstrap-utilities.css";*/
 /*@import "external/bootstrap-5.3.3-dist/css/bootstrap-utilities.rtl.css";*/
+
+@font-face {
+    font-family: "Alfa Slab One", serif;
+    src: url("external/Alfa_Slab_One/AlfaSlabOne-Regular.ttf") format("truetype");
+}
 
 .anchor{
     scroll-margin-top: 100px;
